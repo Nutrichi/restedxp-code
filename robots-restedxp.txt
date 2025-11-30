@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://nutrichi.github.io/restedxp-code/sitemap.xml
